@@ -25,7 +25,6 @@ Building digital tools that solve real problems.
 | **[cabinet-isi-2](https://github.com/mohamed005cheikh-rgb/cabinet-isi-2)** | Site web professionnel pour cabinet médical. / Medical clinic website. | HTML |
 | **[RESTAU-ISI](https://github.com/mohamed005cheikh-rgb/RESTAU-ISI)** | Système de commande pour restaurant (Intégration WhatsApp). / Restaurant ordering system. | CSS |
 | **[0-click-2](https://github.com/mohamed005cheikh-rgb/0-click-2)** | Plateforme intermédiaire Client ⇄ Fournisseur. / Client ⇄ Supplier mediator platform. | CSS |
-| **[olink](https://github.com/mohamed005cheikh-rgb/olink)** | Lien direct Client-Fournisseur (Solution d'intermédiation). / Direct Client-Supplier link (Mediation solution). | CSS |
 | **[Data_MC](https://github.com/mohamed005cheikh-rgb/Data_MC)** | Générateur de données massives (Excel/JSON, 50k+ lignes). / Massive data generator. | HTML |
 | **[Pic_MC](https://github.com/mohamed005cheikh-rgb/Pic_MC)** | Amélioration d'images par IA (100% client-side). / AI Image enhancement. | HTML |
 
