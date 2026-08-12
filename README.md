@@ -23,15 +23,11 @@ Building digital tools that solve real problems.
 | **[TTH](https://github.com/mohamed005cheikh-rgb/TFT-MC)** | Transformateur de texte en HTML (Langage visuel). / Text to HTML converter. | HTML |
 | **[SM_88](https://github.com/mohamed005cheikh-rgb/SM_88)** | Suite d'ingénierie réseau (VLSM, FLSM, IPv6). / Network engineering suite. | HTML |
 | **[cabinet-isi-2](https://github.com/mohamed005cheikh-rgb/cabinet-isi-2)** | Site web professionnel pour cabinet médical. / Medical clinic website. | HTML |
-| **[88-3](https://github.com/mohamed005cheikh-rgb/88-3)** | Apprentissage JavaScript (Beta). / JavaScript Learning (Beta). | JS |
-| **[88-2](https://github.com/mohamed005cheikh-rgb/88-2)** | Apprentissage JavaScript (Beta). / JavaScript Learning (Beta). | JS |
-| **[88](https://github.com/mohamed005cheikh-rgb/88)** | Fondations JavaScript (Beta). / JavaScript Foundations (Beta). | JS |
 | **[RESTAU-ISI](https://github.com/mohamed005cheikh-rgb/RESTAU-ISI)** | Système de commande pour restaurant (Intégration WhatsApp). / Restaurant ordering system. | CSS |
 | **[0-click-2](https://github.com/mohamed005cheikh-rgb/0-click-2)** | Plateforme intermédiaire Client ⇄ Fournisseur. / Client ⇄ Supplier mediator platform. | CSS |
 | **[olink](https://github.com/mohamed005cheikh-rgb/olink)** | Lien direct Client-Fournisseur (Solution d'intermédiation). / Direct Client-Supplier link (Mediation solution). | CSS |
 | **[Data_MC](https://github.com/mohamed005cheikh-rgb/Data_MC)** | Générateur de données massives (Excel/JSON, 50k+ lignes). / Massive data generator. | HTML |
 | **[Pic_MC](https://github.com/mohamed005cheikh-rgb/Pic_MC)** | Amélioration d'images par IA (100% client-side). / AI Image enhancement. | HTML |
-| **[mohamed005cheikh-rgb](https://github.com/mohamed005cheikh-rgb/mohamed005cheikh-rgb)** | Ce fichier de profil. / This profile README. | Markdown |
 
 ---
 
