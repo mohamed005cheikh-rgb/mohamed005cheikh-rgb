@@ -27,6 +27,8 @@ Building digital tools that solve real problems.
 | **[0-click-2](https://github.com/mohamed005cheikh-rgb/0-click-2)** | Plateforme intermédiaire Client ⇄ Fournisseur. / Client ⇄ Supplier mediator platform. | CSS |
 | **[Data_MC](https://github.com/mohamed005cheikh-rgb/Data_MC)** | Générateur de données massives (Excel/JSON, 50k+ lignes). / Massive data generator. | HTML |
 | **[Pic_MC](https://github.com/mohamed005cheikh-rgb/Pic_MC)** | Amélioration d'images par IA (100% client-side). / AI Image enhancement. | HTML |
+| **[DOCTOOLS](https://github.com/mohamed005cheikh-rgb/DOCTOOLS)** | Suite d'outils PDF et documents (100% client‑side, 16 outils). / PDF & document toolkit (100% client‑side, 16 tools). | HTML / JS |
+| **[AI-Audio-Transcriber](https://github.com/mohamed005cheikh-rgb/AI-Audio-Transcriber)** | Transcription audio par IA (OpenAI Whisper, Streamlit, local). / AI audio transcription (OpenAI Whisper, Streamlit, local). | Python / Streamlit |
 
 ---
 
