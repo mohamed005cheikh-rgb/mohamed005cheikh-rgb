@@ -68,4 +68,4 @@ If you have an idea or an opportunity, let's talk.
 
 ---
 
-**© 2025 – mohamed005cheikh@gmail.com | Developed by MC88**
+**© 2026 – mohamed005cheikh@gmail.com | Developed by MC88**
