@@ -1,7 +1,7 @@
-<h<div align="center">
-  <h1 align="center">👋 Hello, I'm Mohamed Cheikh</h1>
-  <p align="center"><b>Computer Science Student</b> from Mauritania 🇲🇷</p>
-  <p align="center">Building digital tools that solve real problems — 100% client-side when possible, privacy-first, and user-friendly.</p>
+<div align="center">
+  <h1>👋 Hello, I'm Mohamed Cheikh</h1>
+  <p><b>Computer Science Student</b> from Mauritania 🇲🇷</p>
+  <p>Building digital tools that solve real problems — 100% client-side when possible, privacy-first, and user-friendly.</p>
 </div>
 
 ---
@@ -30,7 +30,7 @@
 Want to check out all my projects, scripts, and tools instantly? Scan the QR code below with your phone camera:
 
 <p align="center">
-  <img src="./49934.jpg" alt="All My Repositories QR Code" width="220" />
+  <img src="./qr.jpg" alt="All My Repositories QR Code" width="220" />
 </p>
 
 <div align="center">
