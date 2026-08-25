@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm Mohamed Cheikh</h1>
+  <h1>👋 Hello, I'm Mohamed  ould Cheikh</h1>
   <p><b>Computer Science Student</b> from Mauritania 🇲🇷</p>
   <p>Building digital tools that solve real problems — 100% client-side when possible, privacy-first, and user-friendly.</p>
 </div>
